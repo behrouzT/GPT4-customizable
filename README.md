@@ -72,7 +72,7 @@ The AI Tutor supports the following commands:
 
 ## Detailed Documentation
 
-Find detailed documentation for Mr. GPT4 AI Tutor in the [docs.md](https://github.com/behrouzT/GPT4-customizable/main/docs.md) file.
+Find detailed documentation for Mr. GPT4 AI Tutor in the [docs.md](https://github.com/behrouzT/GPT4-customizable/blob/main/docs.md) file.
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/36951064/229168456-bc860426-afc5-4048-a910-3d4437b2d2db.png)
